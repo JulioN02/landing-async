@@ -1,0 +1,24 @@
+{
+  "name": "landing-async",
+  "version": "1.0.0",
+  "description": "Proyecto para practicar el asincronismo con una landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulioN02/landing-async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulioN02/landing-async/issues"
+  },
+  "homepage": "https://github.com/JulioN02/landing-async#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
